@@ -1,0 +1,24 @@
+{
+  "name": "reducer-creator",
+  "version": "0.0.1",
+  "description": "A creator for react redux reducer using key-value object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vteremasov/reducer-creator.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "flask"
+  ],
+  "author": "vteremasov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vteremasov/reducer-creator/issues"
+  },
+  "homepage": "https://github.com/vteremasov/reducer-creator#readme"
+}
